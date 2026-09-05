@@ -26,16 +26,12 @@ At the point of application, AI generates a shared fit assessment, visible to bo
 
 - **AI Workflow Diagram**
     
-    !Linkedin ai workflow.png
-- **AI Workflow Diagram**
-    
     <img width="2080" height="4954" alt="image" src="https://github.com/user-attachments/assets/bb112f6f-68a8-46ef-ad75-991f4d7f49e8" />
 
     
 </aside>
 
 <aside>
-⚙
 
 #### **Why AI**
 
