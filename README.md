@@ -24,9 +24,9 @@ https://www.loom.com/share/00ee6ca533934d00b59d122448df3889
 
 At the point of application, AI generates a shared fit assessment, visible to both candidate (before submitting) and recruiter (in their queue), replacing silent, one-sided filtering with a transparent, mutual signal.
 
-<1>
-  <2>
-
+- **AI Workflow Diagram**
+    
+    !Linkedin ai workflow.png
 - **AI Workflow Diagram**
     
     <img width="2080" height="4954" alt="image" src="https://github.com/user-attachments/assets/bb112f6f-68a8-46ef-ad75-991f4d7f49e8" />
