@@ -17,8 +17,9 @@ https://www.loom.com/share/00ee6ca533934d00b59d122448df3889
 
 ### **TECH STACK**
 
-Bolt — prototype build environment
-GPT-4 API — scoring/evaluation logic
+- Bolt — prototype build environment
+
+- GPT-4 API — scoring/evaluation logic
 
 ### **AI SOLUTION & WORKFLOW**
 
@@ -88,3 +89,7 @@ Eval Rubric & Testing Results: https://lovely-asterisk-eb3.notion.site/Eval-Rubr
 Failure Modes & Guardrails: https://lovely-asterisk-eb3.notion.site/Failure-Modes-Guardrails-3bc818c33dd380d18706fc5e572287be?source=copy_link 
 
 </aside>
+
+### **LIVE PROTOTYPE**
+
+https://jobapplication-fitscore.bolt.host
