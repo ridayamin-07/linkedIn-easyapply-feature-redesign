@@ -24,7 +24,7 @@ https://www.loom.com/share/00ee6ca533934d00b59d122448df3889
 
 At the point of application, AI generates a shared fit assessment, visible to both candidate (before submitting) and recruiter (in their queue), replacing silent, one-sided filtering with a transparent, mutual signal.
 
-- **AI Workflow Diagram**
+Control + Shift + m - **AI Workflow Diagram**
     
     <img width="2080" height="4954" alt="image" src="https://github.com/user-attachments/assets/bb112f6f-68a8-46ef-ad75-991f4d7f49e8" />
 
@@ -75,15 +75,12 @@ The reliable fix is to stop trusting the model's self-report and instead verify 
 
 ---
 
-<aside>
-<img src="/icons/copy_red.svg" alt="/icons/copy_red.svg" width="40px" />
-
 ### **IMPORTANT DOCUMENTS**
 
-Feature Redesign PRD 
+Feature Redesign PRD: https://lovely-asterisk-eb3.notion.site/Feature-Redesign-PRD-3bc818c33dd380a7b3b7f8d3a067984b?source=copy_link
 
-Eval Rubric & Testing Results 
+Eval Rubric & Testing Results: https://lovely-asterisk-eb3.notion.site/Eval-Rubric-Testing-Results-3bc818c33dd3803f9970fee5d2962145?source=copy_link
 
-Failure Modes & Guardrails 
+Failure Modes & Guardrails: https://lovely-asterisk-eb3.notion.site/Failure-Modes-Guardrails-3bc818c33dd380d18706fc5e572287be?source=copy_link 
 
 </aside>
