@@ -64,11 +64,11 @@ Fit isn't keyword-matching, it requires reasoning over unstructured experience, 
   
 ### **BUSINESS IMPACT**
 
-**For recruiters:**
+→ **For recruiters:**
 
 Pre-sorted applications with visible rationale could meaningfully cut the hours spent manually screening high-volume roles turning a 1,200-application pile into a ranked shortlist. 
 
-**For candidates:**
+→ **For candidates:**
 
 Actionable pre-submission feedback could reduce wasted low-fit applications, improving response rates industry-wide. 
 
