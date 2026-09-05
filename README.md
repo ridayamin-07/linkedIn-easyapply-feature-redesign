@@ -15,6 +15,11 @@ https://www.loom.com/share/00ee6ca533934d00b59d122448df3889
 
 **Primary**: a recruiter drowning in Easy Apply volume, unable to distinguish signal from noise. **Secondary**: a genuinely qualified candidate whose application gets lost despite being a strong fit.
 
+### **TECH STACK**
+
+Bolt — prototype build environment
+GPT-4 API — scoring/evaluation logic
+
 ### **AI SOLUTION & WORKFLOW**
 
 <aside>
